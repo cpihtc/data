@@ -1,0 +1,21 @@
+{
+  "details_category": "workshop",
+  "details_date": "2025-10-05",
+  "details_name": "Getting Started with Python",
+  "details_short_description": "A hands-on, beginner-friendly workshop that introduces programming fundamentals using Python. Participants will learn variables, control flow, functions, and basic I/O while building simple programs to gain confidence and practical experience.",
+  "details_image": "https://i.postimg.cc/mkQvCTbp/getting-started-with-python.png",
+  "details_gallery": [
+    {
+      "image": "https://i.postimg.cc/mkQvCTbp/getting-started-with-python.png",
+      "alt": "Getting Started with Python workshop",
+      "type": "image"
+    }
+  ],
+  "details_description": "This practical introductory workshop teaches the essentials of programming using Python. Through short lectures, guided demonstrations, and hands-on exercises, attendees will learn Python syntax, data types, conditionals, loops, functions, and basic debugging techniques. The session emphasizes problem-solving and writing readable code. By the end of the workshop participants will complete small projects (a calculator and a guessing game), understand next steps for continued learning, and receive resources to practice independently. No prior programming experience required; bringing a laptop is recommended.",
+  "details_button": [
+    {
+      "name": "Read More",
+      "link": "https://www.facebook.com/cpihtc/posts/pfbid02PgVbB33EBheyhWkVtho5mq4LjJQkbuQ1RexsA5ZZJUoUhrt7ucfDFuqy6o2wzZBsl"
+    }
+  ]
+}
