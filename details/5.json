@@ -1,0 +1,66 @@
+{
+  "details_category": "event",
+  "details_date": "2025-10-21",
+  "details_name": "Career Summit by Programming Hero at Cumilla Polytechnic Institute",
+  "details_short_description": "Join the Career Summit organized by Programming Hero at Cumilla Polytechnic Institute. An inspiring event focused on career development, tech industry insights, and networking opportunities.",
+  "details_image": "https://res.cloudinary.com/ddbgsmogk/image/upload/v1762765583/programming-hero-X-CPIHTC_wcvc4w.png",
+  "details_gallery": [
+    {
+      "image": "https://i.postimg.cc/0QZC4wqN/programming-hero-X-CPIHTC.png",
+      "alt": "Career Summit poster",
+      "type": "image"
+    },
+    {
+      "image": "https://i.postimg.cc/GtZjjW9L/Career-Summit-by-Programming-Hero-at-Cumilla-Polytechnic-Institute-1.jpg",
+      "alt": "Career Summit event photo 1",
+      "type": "image"
+    },
+    {
+      "image": "https://i.postimg.cc/L5rVVchY/Career-Summit-by-Programming-Hero-at-Cumilla-Polytechnic-Institute-2.jpg",
+      "alt": "Career Summit event photo 2",
+      "type": "image"
+    },
+    {
+      "image": "https://i.postimg.cc/BbdCCrtP/Career-Summit-by-Programming-Hero-at-Cumilla-Polytechnic-Institute-3.jpg",
+      "alt": "Career Summit event photo 3",
+      "type": "image"
+    },
+    {
+      "image": "https://i.postimg.cc/QCRqq2VW/Career-Summit-by-Programming-Hero-at-Cumilla-Polytechnic-Institute-4.jpg",
+      "alt": "Career Summit event photo 4",
+      "type": "image"
+    },
+    {
+      "image": "https://i.postimg.cc/T1Zcczhb/Career-Summit-by-Programming-Hero-at-Cumilla-Polytechnic-Institute-5.jpg",
+      "alt": "Career Summit event photo 5",
+      "type": "image"
+    },
+    {
+      "image": "https://i.postimg.cc/yxwTTMWc/Career-Summit-by-Programming-Hero-at-Cumilla-Polytechnic-Institute-6.jpg",
+      "alt": "Career Summit event photo 6",
+      "type": "image"
+    },
+    {
+      "image": "https://i.postimg.cc/Zn1LLG0r/Career-Summit-by-Programming-Hero-at-Cumilla-Polytechnic-Institute-7.jpg",
+      "alt": "Career Summit event photo 7",
+      "type": "image"
+    },
+    {
+      "image": "https://i.postimg.cc/D0tcc9mr/Career-Summit-by-Programming-Hero-at-Cumilla-Polytechnic-Institute-8.jpg",
+      "alt": "Career Summit event photo 8",
+      "type": "image"
+    },
+    {
+      "image": "https://i.postimg.cc/rsv99BzC/Career-Summit-by-Programming-Hero-at-Cumilla-Polytechnic-Institute-9.jpg",
+      "alt": "Career Summit event photo 9",
+      "type": "image"
+    },
+    {
+      "image": "https://i.postimg.cc/CKL6dV80/566207805-122148495860637041-1591189193028377447-n.jpg",
+      "alt": "Career Summit event photo 10",
+      "type": "image"
+    }
+  ],
+  "details_description": "Cumilla Polytechnic Institute High Tech Club (CPI HTC) in collaboration with Programming Hero is organizing a grand Career Summit at our campus.\n\nThis summit brings together industry experts, successful tech professionals, and aspiring students under one roof. It's a unique opportunity to gain insights into the tech industry, learn about career paths, and network with like-minded individuals.\n\nWhether you're a student exploring career options or someone looking to advance in the tech field, this summit offers valuable sessions, workshops, and networking opportunities that can shape your future.",
+  "details_button": []
+}
