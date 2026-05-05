@@ -1,0 +1,21 @@
+{
+  "details_category": "workshop",
+  "details_date": "2026-03-15",
+  "details_name": "Graphics Design Advance Crash Course",
+  "details_short_description": "An intensive crash course focused on advanced graphic design skills including typography, color theory, brand visuals, and professional design workflow. Participants will create real-world design projects with guided practice.",
+  "details_image": "https://pctgnrmfjcttnuucppwp.supabase.co/storage/v1/object/public/CPIHTC/For%20My%20Class%20alkayesrifat/Graphics_Design_Advance_Crash_Course-cpihtc.png",
+  "details_gallery": [
+    {
+      "image": "https://res.cloudinary.com/ddbgsmogk/image/upload/v1771147121/bmzzptmrmssagrpbira3.jpg",
+      "alt": "Graphics Design Advance Crash Course workshop",
+      "type": "image"
+    }
+  ],
+  "details_description": "This intensive crash course is designed for learners who want to build strong, practical skills in graphic design. The session will cover software introduction, interface navigation, essential tools, and professional design workflow. Participants will explore font selection, color theory, brand visual basics, layout structure, and design inspiration techniques. Through live demonstrations and guided practice, attendees will create real-world design projects such as social media posts, banners, and basic brand visuals. The course focuses on building design sense, understanding composition, and applying creativity in a structured way. By the end of the workshop, participants will have hands-on experience, improved visual understanding, and the confidence to start working on their own design projects.",
+  "details_button": [
+    {
+      "name": "Read More",
+      "link": "https://cpihtc.vercel.app/forum/post/f115edfc-1da1-473b-a585-cfa2090bfac1"
+    }
+  ]
+}
