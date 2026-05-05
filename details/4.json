@@ -1,0 +1,30 @@
+{
+  "details_category": "event",
+  "details_date": "2025-09-05",
+  "details_name": "Special Session on Career Building: Web Development Career Guideline",
+  "details_short_description": "Join us for an exclusive career-building session with Jhankar Mahbub, CEO of Programming Hero. Learn how to build a successful career in web development in this rapidly changing tech world.",
+  "details_image": "https://i.postimg.cc/9Mr3PjWb/jhankar-mahbub-2.jpg",
+  "details_gallery": [
+    {
+      "image": "https://i.postimg.cc/FzD3Z9f1/unnamed.jpg",
+      "alt": "Event photo",
+      "type": "image"
+    },
+    {
+      "image": "https://i.postimg.cc/9Mr3PjWb/jhankar-mahbub-2.jpg",
+      "alt": "Career Building Session Video",
+      "type": "video"
+    }
+  ],
+  "details_description": "Cumilla Polytechnic Institute High Tech Club (CPI HTC) is hosting a special career-building session with Jhankar Mahbub, CEO of Programming Hero and one of the most inspiring figures in Bangladesh's tech community.\n\nKnown for his unique teaching style, practical insights, and humorous approach, Jhankar Mahbub bhai has been motivating thousands of students and developers. He has built one of the country's largest tech learning platforms, Programming Hero, and continues to guide learners toward successful careers in software development.\n\nThis isn't just another webinar - it's an opportunity to interact directly with one of the most well-known names in the programming world. Whether you're just starting your journey or already coding your way forward, this session will give you the clarity and confidence to move ahead in your web development career.",
+  "details_button": [
+    {
+      "name": "Register Now",
+      "link": "https://cpihtc.vercel.app/form/ecb1aa98-c89a-4680-bc6f-5706bfeb56c6"
+    },
+    {
+      "name": "Read More",
+      "link": "https://cpihtc.blogspot.com/2025/09/web-development-career-guideline.html"
+    }
+  ]
+}
