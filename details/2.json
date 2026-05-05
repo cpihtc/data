@@ -1,0 +1,25 @@
+{
+  "details_category": "workshop",
+  "details_date": "2026-03-10",
+  "details_name": "Python Bootcamp 2026",
+  "details_short_description": "A hands-on, beginner-friendly bootcamp that introduces programming fundamentals using Python. Participants will learn variables, control flow, functions, and basic I/O while building simple programs to gain confidence and practical experience.",
+  "details_image": "https://i.postimg.cc/gcDP0dMf/cpihtc-python-2026.png",
+  "details_gallery": [
+    {
+      "image": "https://i.postimg.cc/gcDP0dMf/cpihtc-python-2026.png",
+      "alt": "Python Bootcamp 2026 workshop",
+      "type": "image"
+    }
+  ],
+  "details_description": "This practical introductory bootcamp teaches the essentials of programming using Python. Through short lectures, guided demonstrations, and hands-on exercises, attendees will learn Python syntax, data types, conditionals, loops, functions, and basic debugging techniques. The session emphasizes problem-solving and writing readable code. By the end of the bootcamp participants will complete small projects (a calculator and a guessing game), understand next steps for continued learning, and receive resources to practice independently. No prior programming experience required; bringing a laptop is recommended.",
+  "details_button": [
+    {
+      "name": "Register Now",
+      "link": "https://cpihtc.vercel.app/form/d04dec4c-2246-4b04-aadf-6583b554d372"
+    },
+    {
+      "name": "Read More",
+      "link": "https://www.facebook.com/cpihtc/posts/pfbid0SmGgrnoMX2EwJ91eFjQQFvWUPPL5H2jKFbYGze8WvWKpnGDXwvUuNY7WDGtGwhYvl"
+    }
+  ]
+}
