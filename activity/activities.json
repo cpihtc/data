@@ -20,7 +20,7 @@
   {
     "id": 4,
     "activity_category": "event",
-    "activity_name": "Innovation Competition 2.0 - ইনোভেশন কম্পিটিশন ২০২৫",
+    "activity_name": "Innovation Competition 2.0",
     "activity_details": "6",
     "activity_image": "https://res.cloudinary.com/dtbmyws9s/image/upload/v1766410132/v5mu57sn9h2zkqsocjjf.jpg",
     "activity_description": "কুমিল্লা পলিটেকনিক ইনস্টিটিউট হাই টেক ক্লাব আয়োজিত ইনোভেশন কম্পিটিশন ২০২৫। নতুন আইডিয়া, নতুন উদ্ভাবনের মঞ্চ - প্রযুক্তি ও সৃজনশীলতার দারুণ সমন্বয়।",
@@ -29,7 +29,7 @@
   {
     "id": 3,
     "activity_category": "event",
-    "activity_name": "Career Summit by Programming Hero at Cumilla Polytechnic Institute",
+    "activity_name": "Career Summit by Programming Hero",
     "activity_details": "5",
     "activity_image": "https://res.cloudinary.com/ddbgsmogk/image/upload/v1762765583/programming-hero-X-CPIHTC_wcvc4w.png",
     "activity_description": "Join the Career Summit organized by Programming Hero at Cumilla Polytechnic Institute. An inspiring event focused on career development, tech industry insights, and networking opportunities.",
@@ -47,7 +47,7 @@
   {
     "id": 1,
     "activity_category": "event",
-    "activity_name": "Special Session on Career Building: Web Development Career Guideline",
+    "activity_name": "Web Development Career Guideline",
     "activity_details": "4",
     "activity_image": "https://i.postimg.cc/9Mr3PjWb/jhankar-mahbub-2.jpg",
     "activity_description": "Join us for an exclusive career-building session with Jhankar Mahbub, CEO of Programming Hero. Learn how to build a successful career in web development in this rapidly changing tech world.",
