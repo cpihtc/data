@@ -3,7 +3,7 @@
     "id": 6,
     "activity_category": "workshop",
     "activity_name": "Graphics Design Advance Crash Course",
-    "activity_details": "",
+    "activity_details": "3",
     "activity_image": "https://pctgnrmfjcttnuucppwp.supabase.co/storage/v1/object/public/CPIHTC/For%20My%20Class%20alkayesrifat/Graphics_Design_Advance_Crash_Course-cpihtc.png",
     "activity_description": "An intensive crash course focused on advanced graphic design skills including typography, color theory, brand visuals, and professional design workflow. Participants will create real-world design projects with guided practice.",
     "activity_date": "2026-03-15"
@@ -12,7 +12,7 @@
     "id": 5,
     "activity_category": "workshop",
     "activity_name": "Python Bootcamp 2026",
-    "activity_details": "",
+    "activity_details": "2",
     "activity_image": "https://i.postimg.cc/gcDP0dMf/cpihtc-python-2026.png",
     "activity_description": "A hands-on, beginner-friendly bootcamp that introduces programming fundamentals using Python. Participants will learn variables, control flow, functions, and basic I/O while building simple programs to gain confidence and practical experience.",
     "activity_date": "2026-03-10"
@@ -21,7 +21,7 @@
     "id": 4,
     "activity_category": "event",
     "activity_name": "Innovation Competition 2.0 - ইনোভেশন কম্পিটিশন ২০২৫",
-    "activity_details": "",
+    "activity_details": "6",
     "activity_image": "https://res.cloudinary.com/dtbmyws9s/image/upload/v1766410132/v5mu57sn9h2zkqsocjjf.jpg",
     "activity_description": "কুমিল্লা পলিটেকনিক ইনস্টিটিউট হাই টেক ক্লাব আয়োজিত ইনোভেশন কম্পিটিশন ২০২৫। নতুন আইডিয়া, নতুন উদ্ভাবনের মঞ্চ - প্রযুক্তি ও সৃজনশীলতার দারুণ সমন্বয়।",
     "activity_date": "2025-12-21"
@@ -30,7 +30,7 @@
     "id": 3,
     "activity_category": "event",
     "activity_name": "Career Summit by Programming Hero at Cumilla Polytechnic Institute",
-    "activity_details": "",
+    "activity_details": "5",
     "activity_image": "https://res.cloudinary.com/ddbgsmogk/image/upload/v1762765583/programming-hero-X-CPIHTC_wcvc4w.png",
     "activity_description": "Join the Career Summit organized by Programming Hero at Cumilla Polytechnic Institute. An inspiring event focused on career development, tech industry insights, and networking opportunities.",
     "activity_date": "2025-10-21"
@@ -39,7 +39,7 @@
     "id": 2,
     "activity_category": "workshop",
     "activity_name": "Getting Started with Python",
-    "activity_details": "",
+    "activity_details": "1",
     "activity_image": "https://i.postimg.cc/mkQvCTbp/getting-started-with-python.png",
     "activity_description": "A hands-on, beginner-friendly workshop that introduces programming fundamentals using Python. Participants will learn variables, control flow, functions, and basic I/O while building simple programs to gain confidence and practical experience.",
     "activity_date": "2025-10-05"
@@ -48,7 +48,7 @@
     "id": 1,
     "activity_category": "event",
     "activity_name": "Special Session on Career Building: Web Development Career Guideline",
-    "activity_details": "",
+    "activity_details": "4",
     "activity_image": "https://i.postimg.cc/9Mr3PjWb/jhankar-mahbub-2.jpg",
     "activity_description": "Join us for an exclusive career-building session with Jhankar Mahbub, CEO of Programming Hero. Learn how to build a successful career in web development in this rapidly changing tech world.",
     "activity_date": "2025-09-05"
