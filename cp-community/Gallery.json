@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "title": "ICPC 2025 Team Gallery",
+    "description": "Photos of CPI teams participating in ICPC 2025",
+    "coverImage": "https://pctgnrmfjcttnuucppwp.supabase.co/storage/v1/object/public/CPIHTC/Copy%20of%20IMG_3379.JPG",
+    "images": [
+      {
+        "src": "https://pctgnrmfjcttnuucppwp.supabase.co/storage/v1/object/public/CPIHTC/Copy%20of%20IMG_3379.JPG",
+        "alt": "Team: Segmentation Fault"
+      }
+    ]
+  }
+]
