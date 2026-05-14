@@ -3,96 +3,256 @@
         "name": "Tarikul Islam",
         "position": "Chief Coordinator 1st",
         "image": "https://res.cloudinary.com/dtbmyws9s/image/upload/v1763727437/zcgegpyof2eu7exn3hme.jpg",
+        "removed_bg_image": "",
+        "email": "",
+        "social": {
+            "facebook": "",
+            "linkedin": "",
+            "instagram": "",
+            "x.com": "",
+            "github": "",
+            "portfolio": ""
+        },
         "session": "2022-2023"
     },
     {
         "name": "Sabbir Hossain",
         "position": "Chief Coordinator 2nd",
         "image": "https://res.cloudinary.com/dtbmyws9s/image/upload/v1763727372/i0j5a5mg979ejzde2oum.jpg",
+        "removed_bg_image": "",
+        "email": "",
+        "social": {
+            "facebook": "",
+            "linkedin": "",
+            "instagram": "",
+            "x.com": "",
+            "github": "",
+            "portfolio": ""
+        },
         "session": "2022-2023"
     },
     {
         "name": "Arafat Islam Niloy",
         "position": "Chief Executive",
         "image": "https://res.cloudinary.com/dtbmyws9s/image/upload/v1763727475/ilgn5dj9g9crubaw5jjp.jpg",
+        "removed_bg_image": "",
+        "email": "",
+        "social": {
+            "facebook": "",
+            "linkedin": "",
+            "instagram": "",
+            "x.com": "",
+            "github": "",
+            "portfolio": ""
+        },
         "session": "2022-2023"
     },
     {
         "name": "Atahar Jamil",
         "position": "Lead Creative Designer",
         "image": "https://res.cloudinary.com/dtbmyws9s/image/upload/v1763727422/g5wmdu1ybozqhkfoep86.jpg",
+        "removed_bg_image": "",
+        "email": "",
+        "social": {
+            "facebook": "",
+            "linkedin": "",
+            "instagram": "",
+            "x.com": "",
+            "github": "",
+            "portfolio": ""
+        },
         "session": "2022-2023"
     },
     {
         "name": "Yeasin Arafat",
         "position": "Senior Executive",
         "image": "https://res.cloudinary.com/dtbmyws9s/image/upload/v1768734343/touwu12gspiffxyeuj9w.png",
+        "removed_bg_image": "",
+        "email": "",
+        "social": {
+            "facebook": "",
+            "linkedin": "",
+            "instagram": "",
+            "x.com": "",
+            "github": "",
+            "portfolio": ""
+        },
         "session": "2022-2023"
     },
     {
         "name": "Jubayer Islam",
         "position": "Executive Member",
         "image": "https://res.cloudinary.com/dtbmyws9s/image/upload/v1763727501/qewxyakpcahquyn6fhav.png",
+        "removed_bg_image": "",
+        "email": "",
+        "social": {
+            "facebook": "",
+            "linkedin": "",
+            "instagram": "",
+            "x.com": "",
+            "github": "",
+            "portfolio": ""
+        },
         "session": "2023-2024"
     },
     {
         "name": "Tahsin Mozumder",
         "position": "Executive Member",
         "image": "https://res.cloudinary.com/dn4z4esit/image/upload/v1758783085/cpi-members/ubdtcfu6gxaa2ee2qbap.jpg",
+        "removed_bg_image": "",
+        "email": "",
+        "social": {
+            "facebook": "",
+            "linkedin": "",
+            "instagram": "",
+            "x.com": "",
+            "github": "",
+            "portfolio": ""
+        },
         "session": "2023-2024"
     },
     {
         "name": "Al Kayes Rifat",
         "position": "Executive Member",
         "image": "https://res.cloudinary.com/dn4z4esit/image/upload/v1766562493/cpi-members/ylbm8kzojniiwhwj4opa.jpg",
+        "removed_bg_image": "https://i.postimg.cc/pr24hpm4/alkayesrifat.png",
+        "email": "",
+        "social": {
+            "facebook": "https://www.facebook.com/AlKayesRifat.AKR",
+            "linkedin": "https://www.linkedin.com/in/alkayesrifat/",
+            "instagram": "https://www.instagram.com/alkayesrifat/",
+            "x.com": "https://x.com/alkayesrifat",
+            "github": "https://github.com/alkayesrifat",
+            "portfolio": "https://alkayesrifat.github.io/"
+        },
         "session": "2023-2024"
     },
     {
         "name": "Tanvir Mahtab",
         "position": "Community Manager",
         "image": "https://i.postimg.cc/9QLsPqgG/Screenshot-2026-05-14-170054.png",
+        "removed_bg_image": "",
+        "email": "",
+        "social": {
+            "facebook": "",
+            "linkedin": "",
+            "instagram": "",
+            "x.com": "",
+            "github": "",
+            "portfolio": ""
+        },
         "session": "2023-2024"
     },
     {
         "name": "Abdullah Muhammod Jaber",
         "position": "Creative Designer",
         "image": "https://i.postimg.cc/02x4LCL8/Screenshot-2026-05-14-170134.png",
+        "removed_bg_image": "",
+        "email": "",
+        "social": {
+            "facebook": "",
+            "linkedin": "",
+            "instagram": "",
+            "x.com": "",
+            "github": "",
+            "portfolio": ""
+        },
         "session": "2025-2026"
     },
     {
         "name": "Kaif Al Mubin",
         "position": "Assistant Community Manager",
         "image": "https://i.postimg.cc/PqB3KbWX/Screenshot-2026-05-14-170206.png",
+        "removed_bg_image": "",
+        "email": "",
+        "social": {
+            "facebook": "",
+            "linkedin": "",
+            "instagram": "",
+            "x.com": "",
+            "github": "",
+            "portfolio": ""
+        },
         "session": "2024-2025"
     },
     {
         "name": "Sammo Roy",
         "position": "Organizing Manager",
         "image": "https://res.cloudinary.com/dn4z4esit/image/upload/v1760367335/cpi-members/zq3nwtxhdwcymcqoea09.jpg",
+        "removed_bg_image": "",
+        "email": "",
+        "social": {
+            "facebook": "",
+            "linkedin": "",
+            "instagram": "",
+            "x.com": "",
+            "github": "",
+            "portfolio": ""
+        },
         "session": "2024-2025"
     },
     {
         "name": "Amanot ullah",
         "position": "Social Media Mannager",
         "image": "https://i.postimg.cc/yds9VkBf/Screenshot-2026-05-14-170429.png",
+        "removed_bg_image": "",
+        "email": "",
+        "social": {
+            "facebook": "",
+            "linkedin": "",
+            "instagram": "",
+            "x.com": "",
+            "github": "",
+            "portfolio": ""
+        },
         "session": "2024-2025"
     },
     {
         "name": "Dewan Jahidul Hoque",
         "position": "Photographer",
         "image": "https://i.postimg.cc/7hCLDkCB/489280647-1190959319478970-877807009745145946-n.jpg",
+        "removed_bg_image": "",
+        "email": "",
+        "social": {
+            "facebook": "",
+            "linkedin": "",
+            "instagram": "",
+            "x.com": "",
+            "github": "",
+            "portfolio": ""
+        },
         "session": "2025-2026"
     },
     {
         "name": "Jamirul Islam Siam",
         "position": "Videographer",
         "image": "https://i.postimg.cc/cCqJszfb/655643087-122266012640080812-4198003227297706935-n.jpg",
+        "removed_bg_image": "",
+        "email": "",
+        "social": {
+            "facebook": "",
+            "linkedin": "",
+            "instagram": "",
+            "x.com": "",
+            "github": "",
+            "portfolio": ""
+        },
         "session": "2025-2026"
     },
     {
         "name": "Koushik Chakrabarty",
         "position": "Assistant Organizing Manager",
         "image": "https://i.postimg.cc/cLW87vg9/Screenshot-2026-05-14-170710.png",
+        "removed_bg_image": "",
+        "email": "",
+        "social": {
+            "facebook": "",
+            "linkedin": "",
+            "instagram": "",
+            "x.com": "",
+            "github": "",
+            "portfolio": ""
+        },
         "session": "2025-2026"
     }
 ]
