@@ -1,202 +1,98 @@
 [
     {
-        "id": 15,
         "name": "Tarikul Islam",
         "position": "Chief Coordinator 1st",
         "image": "https://res.cloudinary.com/dtbmyws9s/image/upload/v1763727437/zcgegpyof2eu7exn3hme.jpg",
-        "bio": "",
-        "skills": [],
-        "session": "2022-2023",
-        "department": "Computer Science & Technology",
-        "fullBio": "",
-        "isActive": false
+        "session": "2022-2023"
     },
     {
-        "id": 16,
         "name": "Sabbir Hossain",
         "position": "Chief Coordinator 2nd",
         "image": "https://res.cloudinary.com/dtbmyws9s/image/upload/v1763727372/i0j5a5mg979ejzde2oum.jpg",
-        "bio": "",
-        "skills": [],
-        "session": "2022-2023",
-        "department": "Computer Science & Technology",
-        "fullBio": "",
-        "isActive": false
+        "session": "2022-2023"
     },
     {
-        "id": 17,
         "name": "Arafat Islam Niloy",
         "position": "Chief Executive",
         "image": "https://res.cloudinary.com/dtbmyws9s/image/upload/v1763727475/ilgn5dj9g9crubaw5jjp.jpg",
-        "bio": "",
-        "skills": [],
-        "session": "2022-2023",
-        "department": "Computer Science & Technology",
-        "fullBio": "",
-        "isActive": false
+        "session": "2022-2023"
     },
     {
-        "id": 18,
         "name": "Atahar Jamil",
         "position": "Lead Creative Designer",
         "image": "https://res.cloudinary.com/dtbmyws9s/image/upload/v1763727422/g5wmdu1ybozqhkfoep86.jpg",
-        "bio": "",
-        "skills": [],
-        "session": "2022-2023",
-        "department": "Computer Science & Technology",
-        "fullBio": "",
-        "isActive": false
+        "session": "2022-2023"
     },
     {
-        "id": 19,
         "name": "Yeasin Arafat",
         "position": "Senior Executive",
         "image": "https://res.cloudinary.com/dtbmyws9s/image/upload/v1768734343/touwu12gspiffxyeuj9w.png",
-        "bio": "",
-        "skills": [],
-        "session": "2022-2023",
-        "department": "Computer Science & Technology",
-        "fullBio": "",
-        "isActive": false
+        "session": "2022-2023"
     },
     {
-        "id": 20,
         "name": "Jubayer Islam",
         "position": "Executive Member",
         "image": "https://res.cloudinary.com/dtbmyws9s/image/upload/v1763727501/qewxyakpcahquyn6fhav.png",
-        "bio": "",
-        "skills": [],
-        "session": "2023-2024",
-        "department": "Computer Science & Technology",
-        "fullBio": "",
-        "isActive": false
+        "session": "2023-2024"
     },
     {
-        "id": 21,
         "name": "Tahsin Mozumder",
         "position": "Executive Member",
         "image": "https://res.cloudinary.com/dn4z4esit/image/upload/v1758783085/cpi-members/ubdtcfu6gxaa2ee2qbap.jpg",
-        "bio": "",
-        "skills": [],
-        "session": "2023-2024",
-        "department": "Computer Science & Technology",
-        "fullBio": "",
-        "isActive": false
+        "session": "2023-2024"
     },
     {
-        "id": 22,
         "name": "Al Kayes Rifat",
         "position": "Executive Member",
         "image": "https://res.cloudinary.com/dn4z4esit/image/upload/v1766562493/cpi-members/ylbm8kzojniiwhwj4opa.jpg",
-        "skills": [
-            "Competitive Programming"
-        ],
-        "session": "2023-2024",
-        "department": "Computer Science & Technology",
-        "fullBio": "",
-        "projects": [
-            "Club Website"
-        ],
-        "email": "alkayesrifat47@gmail.com",
-        "linkedin": "https://www.linkedin.com/in/alkayesrifat/",
-        "github": "https://github.com/alkayesrifat",
-        "portfolio": "https://alkayesrifat.github.io/",
-        "isActive": false
+        "session": "2023-2024"
     },
     {
-        "id": 23,
         "name": "Tanvir Mahtab",
         "position": "Community Manager",
         "image": "https://i.postimg.cc/9QLsPqgG/Screenshot-2026-05-14-170054.png",
-        "bio": "",
-        "skills": [],
-        "session": "2023-2024",
-        "department": "Computer Science & Technology",
-        "fullBio": "",
-        "isActive": false
+        "session": "2023-2024"
     },
     {
-        "id": 24,
         "name": "Abdullah Muhammod Jaber",
         "position": "Creative Designer",
         "image": "https://i.postimg.cc/02x4LCL8/Screenshot-2026-05-14-170134.png",
-        "bio": "",
-        "skills": [],
-        "session": "2025-2026",
-        "department": "Computer Science & Technology",
-        "fullBio": "",
-        "isActive": false
+        "session": "2025-2026"
     },
     {
-        "id": 25,
         "name": "Kaif Al Mubin",
         "position": "Assistant Community Manager",
         "image": "https://i.postimg.cc/PqB3KbWX/Screenshot-2026-05-14-170206.png",
-        "bio": "",
-        "skills": [],
-        "session": "2024-2025",
-        "department": "Computer Science & Technology",
-        "fullBio": "",
-        "isActive": false
+        "session": "2024-2025"
     },
     {
-        "id": 26,
         "name": "Sammo Roy",
         "position": "Organizing Manager",
         "image": "https://res.cloudinary.com/dn4z4esit/image/upload/v1760367335/cpi-members/zq3nwtxhdwcymcqoea09.jpg",
-        "bio": "",
-        "skills": [],
-        "session": "2024-2025",
-        "department": "Computer Science & Technology",
-        "fullBio": "",
-        "isActive": false
+        "session": "2024-2025"
     },
     {
-        "id": 27,
         "name": "Amanot ullah",
         "position": "Social Media Mannager",
         "image": "https://i.postimg.cc/yds9VkBf/Screenshot-2026-05-14-170429.png",
-        "bio": "",
-        "skills": [],
-        "session": "2024-2025",
-        "department": "Computer Science & Technology",
-        "fullBio": "",
-        "isActive": false
+        "session": "2024-2025"
     },
     {
-        "id": 28,
         "name": "Dewan Jahidul Hoque",
         "position": "Photographer",
         "image": "https://i.postimg.cc/7hCLDkCB/489280647-1190959319478970-877807009745145946-n.jpg",
-        "bio": "",
-        "skills": [],
-        "session": "2025-2026",
-        "department": "Computer Science & Technology",
-        "fullBio": "",
-        "isActive": false
+        "session": "2025-2026"
     },
     {
-        "id": 29,
         "name": "Jamirul Islam Siam",
         "position": "Videographer",
         "image": "https://i.postimg.cc/cCqJszfb/655643087-122266012640080812-4198003227297706935-n.jpg",
-        "bio": "",
-        "skills": [],
-        "session": "2025-2026",
-        "department": "Computer Science & Technology",
-        "fullBio": "",
-        "isActive": false
+        "session": "2025-2026"
     },
     {
-        "id": 30,
         "name": "Koushik Chakrabarty",
         "position": "Assistant Organizing Manager",
         "image": "https://i.postimg.cc/cLW87vg9/Screenshot-2026-05-14-170710.png",
-        "bio": "",
-        "skills": [],
-        "session": "2025-2026",
-        "department": "Computer Science & Technology",
-        "fullBio": "",
-        "isActive": false
+        "session": "2025-2026"
     }
 ]

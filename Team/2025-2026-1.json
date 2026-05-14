@@ -1,180 +1,86 @@
 [
   {
-    "id": 2,
     "name": "Najmul Haque Talukder",
     "position": "Chief Coordinator",
     "image": "https://res.cloudinary.com/dtbmyws9s/image/upload/v1763727336/fihygjczniizp3l6z91r.png",
-    "bio": "Passionate leader driving innovation in programming and technology education.",
-    "skills": ["Leadership"],
-    "session": "2021-2022",
-    "department": "Computer Science & Technology",
-    "fullBio": "Najmul Haque Talukder is a dedicated student leader with exceptional skills in programming and team management. As the President of the Programming Club, he has successfully organized numerous workshops, competitions, and tech talks that have benefited hundreds of students. His vision for technological advancement and student empowerment has transformed the club into a premier destination for aspiring programmers.",
-    "email": "info.cpihtc@gmail.com",
-    "phone": "+880-1611-039425",
-    "linkedin": "https://www.linkedin.com/in/najmul-h-talukder-0b45a3316/",
-    "github": "https://github.com/najmul-haque-talukder",
-    "portfolio": "https://robilop.framer.website/",
-    "isActive": false
+    "session": "2021-2022"
   },
   {
-    "id": 3,
     "name": "Nazmul Hasan Piash",
     "position": "Web Affairs Head",
     "image": "https://res.cloudinary.com/dtbmyws9s/image/upload/v1763727356/gbtrkmobfiugb6pe1nce.jpg",
-    "bio": "",
-    "skills": ["Web Development"],
-    "session": "2021-2022",
-    "department": "Computer Science & Technology",
-    "fullBio": "",
-    "isActive": false
+    "session": "2021-2022"
   },
   {
-    "id": 4,
     "name": "Sabbir Hossain",
     "position": "Joint Web Affairs Coordinator",
     "image": "https://res.cloudinary.com/dtbmyws9s/image/upload/v1763727372/i0j5a5mg979ejzde2oum.jpg",
-    "bio": "",
-    "skills": ["Web Development"],
-    "session": "2022-2023",
-    "department": "Computer Science & Technology",
-    "fullBio": "",
-    "isActive": false
+    "session": "2022-2023"
   },
   {
-    "id": 1,
     "name": "Al Kayes Rifat",
     "position": "Programming and Competitive affairs coordinator",
     "image": "https://res.cloudinary.com/dn4z4esit/image/upload/v1766562493/cpi-members/ylbm8kzojniiwhwj4opa.jpg",
-    "bio": "Programming and Competitive Affairs Coordinator focused on enhancing members' skills in competitive programming.",
-    "skills": ["Competitive Programming"],
-    "session": "2023-2024",
-    "department": "Computer Science & Technology",
-    "fullBio": "Al Kayes Rifat serves as the Programming and Competitive Affairs Coordinator of the Cumilla Polytechnic Institute Programming Club. In this role, he focuses on enhancing members’ skills in data structures, algorithms, and competitive programming. He organizes training sessions, practice contests, and mentorship programs, helping members prepare for both national and international programming competitions. His dedication to building a strong problem-solving culture has made him an essential part of the club’s growth and success.",
-    "projects": ["Club Website"],
-    "email": "alkayesrifat47@gmail.com",
-    "linkedin": "https://www.linkedin.com/in/alkayesrifat/",
-    "github": "https://github.com/alkayesrifat",
-    "portfolio": "https://alkayesrifat.github.io/",
-    "isActive": false
+    "session": "2023-2024"
   },
   {
-    "id": 5,
     "name": "Faysal Al Nur",
     "position": "Event Management Head",
     "image": "https://res.cloudinary.com/dtbmyws9s/image/upload/v1763727405/izeq7xli99cralpnsghq.jpg",
-    "bio": "",
-    "skills": [],
-    "session": "2021-2022",
-    "department": "Computer Science & Technology",
-    "fullBio": "",
-    "isActive": false
+    "session": "2021-2022"
   },
   {
-    "id": 6,
     "name": "Atahar Jamil",
     "position": "Graphics & Creative Affairs Coordinator",
     "image": "https://res.cloudinary.com/dtbmyws9s/image/upload/v1763727422/g5wmdu1ybozqhkfoep86.jpg",
-    "bio": "",
-    "skills": [],
-    "session": "2021-2022",
-    "department": "Computer Science & Technology",
-    "fullBio": "",
-    "isActive": false
+    "session": "2021-2022"
   },
   {
-    "id": 7,
     "name": "Tarikul Islam",
     "position": "Public Relation & Social Media Coordinator",
     "image": "https://res.cloudinary.com/dtbmyws9s/image/upload/v1763727437/zcgegpyof2eu7exn3hme.jpg",
-    "bio": "",
-    "skills": [],
-    "session": "2022-2023",
-    "department": "Computer Science & Technology",
-    "fullBio": "",
-    "isActive": false
+    "session": "2022-2023"
   },
   {
-    "id": 8,
     "name": "Pritom Majumder",
     "position": "Application Coordinator",
     "image": "https://res.cloudinary.com/dn4z4esit/image/upload/v1756485694/cpi-members/q1yxdngjcbiwrl5sv4sr.jpg",
-    "bio": "",
-    "skills": [],
-    "session": "2022-2023",
-    "department": "Computer Science & Technology",
-    "fullBio": "",
-    "isActive": false
+    "session": "2022-2023"
   },
   {
-    "id": 9,
     "name": "Anamul Hasan Ashik",
     "position": "Application Coordinator",
     "image": "https://res.cloudinary.com/dtbmyws9s/image/upload/v1763727458/s6rmvwca6pcjzk6y2uxs.png",
-    "bio": "",
-    "skills": [],
-    "session": "2022-2023",
-    "department": "Computer Science & Technology",
-    "fullBio": "",
-    "isActive": false
+    "session": "2022-2023"
   },
   {
-    "id": 10,
     "name": "Arafat Islam Niloy",
     "position": "Executive Member",
     "image": "https://res.cloudinary.com/dtbmyws9s/image/upload/v1763727475/ilgn5dj9g9crubaw5jjp.jpg",
-    "bio": "",
-    "skills": [],
-    "session": "2022-2023",
-    "department": "Computer Science & Technology",
-    "fullBio": "",
-    "isActive": false
+    "session": "2022-2023"
   },
   {
-    "id": 11,
     "name": "Tahsin Mozumder",
     "position": "Active Support Member",
     "image": "https://res.cloudinary.com/dn4z4esit/image/upload/v1758783085/cpi-members/ubdtcfu6gxaa2ee2qbap.jpg",
-    "bio": "",
-    "skills": [],
-    "session": "2023-2024",
-    "department": "Computer Science & Technology",
-    "fullBio": "",
-    "isActive": false
+    "session": "2023-2024"
   },
   {
-    "id": 12,
     "name": "Habibur Rahman Sunny",
     "position": "Active Support Member",
     "image": "https://res.cloudinary.com/dn4z4esit/image/upload/v1758783085/cpi-members/ubdtcfu6gxaa2ee2qbap.jpg",
-    "bio": "",
-    "skills": [],
-    "session": "2023-2024",
-    "department": "Computer Science & Technology",
-    "fullBio": "",
-    "isActive": false
+    "session": "2023-2024"
   },
   {
-    "id": 13,
     "name": "Jubayer Islam",
     "position": "Active Support Member",
     "image": "https://res.cloudinary.com/dtbmyws9s/image/upload/v1763727501/qewxyakpcahquyn6fhav.png",
-    "bio": "",
-    "skills": [],
-    "session": "2023-2024",
-    "department": "Computer Science & Technology",
-    "fullBio": "",
-    "isActive": false
+    "session": "2023-2024"
   },
   {
-    "id": 14,
     "name": "Sayed Wosama Aiman",
     "position": "Active Support Member",
     "image": "https://res.cloudinary.com/dtbmyws9s/image/upload/v1763727520/bp2vlj1ut0dtqtj17xrm.jpg",
-    "bio": "",
-    "skills": [],
-    "session": "2023-2024",
-    "department": "Computer Science & Technology",
-    "fullBio": "",
-    "isActive": false
+    "session": "2023-2024"
   }
 ]
