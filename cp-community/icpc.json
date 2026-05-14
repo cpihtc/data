@@ -1,0 +1,36 @@
+[
+  {
+    "id": "icpc-dhaka-2025",
+    "event": "ICPC Asia Dhaka Regional Contest 2025",
+    "date": "December 20, 2025",
+    "location": "BUBT, Dhaka",
+    "standingsUrl": "https://bapsoj.org/contests/icpc-dhaka-onsite-2025/standings",
+    "teams": [
+      {
+        "teamName": "Segmentation Fault",
+        "university": "Comilla Polytechnic Institute",
+        "rank": 259,
+        "members": [
+          {
+            "name": "Saifullah Asif",
+            "image": "https://res.cloudinary.com/dtbmyws9s/image/upload/v1768734225/wro8rk2uzjkzsvcflhq9.jpg",
+            "codeforcesHandle": "saifullahasif2",
+            "linkedin": "https://www.linkedin.com/in/saifullah-asif-36168b372/"
+          },
+          {
+            "name": "Al Kayes Rifat",
+            "image": "https://res.cloudinary.com/dtbmyws9s/image/upload/v1768734248/mnjzxdyomlf3bvbxt75q.jpg",
+            "codeforcesHandle": "alkayesrifat",
+            "linkedin": "https://www.linkedin.com/in/alkayesrifat"
+          },
+          {
+            "name": "Yeasin Arafat",
+            "image": "https://res.cloudinary.com/dtbmyws9s/image/upload/v1768734343/touwu12gspiffxyeuj9w.png",
+            "codeforcesHandle": "yeasin321",
+            "linkedin": "https://www.linkedin.com/in/yeasinarafat27"
+          }
+        ]
+      }
+    ]
+  }
+]
