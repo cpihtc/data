@@ -66,8 +66,8 @@
     {
         "name": "Yeasin Arafat",
         "position": "Senior Executive",
-        "image": "https://res.cloudinary.com/dtbmyws9s/image/upload/v1768734343/touwu12gspiffxyeuj9w.png",
-        "removed_bg_image": "",
+        "image": "https://i.postimg.cc/CKb0Tx8m/yeasin.jpg",
+        "removed_bg_image": "https://i.postimg.cc/8CLGQzvR/Untitled.png",
         "email": "",
         "social": {
             "facebook": "",
@@ -98,8 +98,8 @@
     {
         "name": "Tahsin Mozumder",
         "position": "Executive Member",
-        "image": "https://res.cloudinary.com/dn4z4esit/image/upload/v1758783085/cpi-members/ubdtcfu6gxaa2ee2qbap.jpg",
-        "removed_bg_image": "",
+        "image": "https://i.postimg.cc/8k7SN4LJ/tahsin.jpg",
+        "removed_bg_image": "https://i.postimg.cc/2jgf6Wx6/Untitled-(1).png",
         "email": "",
         "social": {
             "facebook": "",
@@ -146,8 +146,8 @@
     {
         "name": "Abdullah Muhammod Jaber",
         "position": "Creative Designer",
-        "image": "https://i.postimg.cc/02x4LCL8/Screenshot-2026-05-14-170134.png",
-        "removed_bg_image": "",
+        "image": "https://i.postimg.cc/FKkyh2FL/Screenshot-2026-05-14-170134.png",
+        "removed_bg_image": "https://i.postimg.cc/cJtRdV1F/Untitled-(3).png",
         "email": "",
         "social": {
             "facebook": "",
@@ -163,7 +163,7 @@
         "name": "Kaif Al Mubin",
         "position": "Assistant Community Manager",
         "image": "https://i.postimg.cc/PqB3KbWX/Screenshot-2026-05-14-170206.png",
-        "removed_bg_image": "",
+        "removed_bg_image": "https://i.postimg.cc/bNFSd3B0/Untitled-(4).png",
         "email": "",
         "social": {
             "facebook": "",
@@ -179,7 +179,7 @@
         "name": "Sammo Roy",
         "position": "Organizing Manager",
         "image": "https://res.cloudinary.com/dn4z4esit/image/upload/v1760367335/cpi-members/zq3nwtxhdwcymcqoea09.jpg",
-        "removed_bg_image": "",
+        "removed_bg_image": "https://i.postimg.cc/ZqPqPcwC/Untitled-(5).png",
         "email": "",
         "social": {
             "facebook": "",
@@ -192,10 +192,26 @@
         "session": "2024-2025"
     },
     {
+        "name": "Koushik Chakrabarty",
+        "position": "Assistant Organizing Manager",
+        "image": "https://i.postimg.cc/Qd422WVc/Screenshot-2026-05-14-170710.png",
+        "removed_bg_image": "https://i.postimg.cc/VNJxmLbM/Untitled-(9).png",
+        "email": "",
+        "social": {
+            "facebook": "",
+            "linkedin": "",
+            "instagram": "",
+            "x.com": "",
+            "github": "",
+            "portfolio": ""
+        },
+        "session": "2025-2026"
+    },
+    {
         "name": "Amanot ullah",
         "position": "Social Media Mannager",
         "image": "https://i.postimg.cc/yds9VkBf/Screenshot-2026-05-14-170429.png",
-        "removed_bg_image": "",
+        "removed_bg_image": "https://i.postimg.cc/9Xkc7KcX/Untitled-(6).png",
         "email": "",
         "social": {
             "facebook": "",
@@ -211,7 +227,7 @@
         "name": "Dewan Jahidul Hoque",
         "position": "Photographer",
         "image": "https://i.postimg.cc/7hCLDkCB/489280647-1190959319478970-877807009745145946-n.jpg",
-        "removed_bg_image": "",
+        "removed_bg_image": "https://i.postimg.cc/ZK30K46b/Untitled-(7).png",
         "email": "",
         "social": {
             "facebook": "",
@@ -227,23 +243,7 @@
         "name": "Jamirul Islam Siam",
         "position": "Videographer",
         "image": "https://i.postimg.cc/cCqJszfb/655643087-122266012640080812-4198003227297706935-n.jpg",
-        "removed_bg_image": "",
-        "email": "",
-        "social": {
-            "facebook": "",
-            "linkedin": "",
-            "instagram": "",
-            "x.com": "",
-            "github": "",
-            "portfolio": ""
-        },
-        "session": "2025-2026"
-    },
-    {
-        "name": "Koushik Chakrabarty",
-        "position": "Assistant Organizing Manager",
-        "image": "https://i.postimg.cc/cLW87vg9/Screenshot-2026-05-14-170710.png",
-        "removed_bg_image": "",
+        "removed_bg_image": "https://i.postimg.cc/d1bvzZH9/Untitled-(8).png",
         "email": "",
         "social": {
             "facebook": "",
