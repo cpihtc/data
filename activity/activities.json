@@ -1,5 +1,14 @@
 [
   {
+    "id": 7,
+    "activity_category": "workshop",
+    "activity_name": "Marketing & Branding Workshop 2026",
+    "activity_details": "7",
+    "activity_image": "https://i.postimg.cc/FzHnBdTn/alkayesrifat.jpg",
+    "activity_description": "marketing, branding & hands-on exercises.",
+    "activity_date": "2026-05-19"
+  },
+  {
     "id": 6,
     "activity_category": "workshop",
     "activity_name": "Graphics Design Advance Crash Course",
