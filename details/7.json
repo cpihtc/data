@@ -7,7 +7,17 @@
 	"details_image": "https://i.postimg.cc/FzHnBdTn/alkayesrifat.jpg",
 	"details_gallery": [
 		{
-			"image": "https://i.postimg.cc/FzHnBdTn/alkayesrifat.jpg",
+			"image": "https://i.postimg.cc/ydP2B4Jr/1.jpg",
+			"alt": "Marketing & Branding Workshop 2026",
+			"type": "image"
+		},
+		{
+			"image": "https://i.postimg.cc/vBzCMF1C/2.jpg",
+			"alt": "Marketing & Branding Workshop 2026",
+			"type": "image"
+		},
+		{
+			"image": "https://i.postimg.cc/DZgRFkW9/3.jpg",
 			"alt": "Marketing & Branding Workshop 2026",
 			"type": "image"
 		}
