@@ -1,0 +1,76 @@
+[
+  {
+    "id": 1,
+    "title": "Career Summit by Programming Hero at Cumilla Polytechnic Institute",
+    "description": "Career Summit by Programming Hero at Cumilla Polytechnic Institute - A transformative event bringing together students, professionals, and industry leaders to explore career opportunities in technology and programming.",
+    "media": [
+      {
+        "src": "https://res.cloudinary.com/ddbgsmogk/image/upload/v1762765327/Career-Summit-by-Programming-Hero-at-Cumilla-Polytechnic-Institute-1_nchjcf.jpg",
+        "alt": "Career Summit by Programming Hero",
+        "type": "image"
+      },
+      {
+        "src": "https://res.cloudinary.com/ddbgsmogk/image/upload/v1762765327/Career-Summit-by-Programming-Hero-at-Cumilla-Polytechnic-Institute-2_v8jdlo.jpg",
+        "alt": "Career Summit by Programming Hero",
+        "type": "image"
+      },
+      {
+        "src": "https://res.cloudinary.com/ddbgsmogk/image/upload/v1762765328/Career-Summit-by-Programming-Hero-at-Cumilla-Polytechnic-Institute-3_nvyzwd.jpg",
+        "alt": "Career Summit by Programming Hero",
+        "type": "image"
+      },
+      {
+        "src": "https://res.cloudinary.com/ddbgsmogk/image/upload/v1762765327/Career-Summit-by-Programming-Hero-at-Cumilla-Polytechnic-Institute-4_pegzjp.jpg",
+        "alt": "Career Summit by Programming Hero",
+        "type": "image"
+      },
+      {
+        "src": "https://res.cloudinary.com/ddbgsmogk/image/upload/v1762765327/Career-Summit-by-Programming-Hero-at-Cumilla-Polytechnic-Institute-5_ke4x2c.jpg",
+        "alt": "Career Summit by Programming Hero",
+        "type": "image"
+      },
+      {
+        "src": "https://res.cloudinary.com/ddbgsmogk/image/upload/v1762765327/Career-Summit-by-Programming-Hero-at-Cumilla-Polytechnic-Institute-6_li2j3p.jpg",
+        "alt": "Career Summit by Programming Hero",
+        "type": "image"
+      },
+      {
+        "src": "https://res.cloudinary.com/ddbgsmogk/image/upload/v1762765328/Career-Summit-by-Programming-Hero-at-Cumilla-Polytechnic-Institute-7_me6ztp.jpg",
+        "alt": "Career Summit by Programming Hero",
+        "type": "image"
+      },
+      {
+        "src": "https://res.cloudinary.com/ddbgsmogk/image/upload/v1762765328/Career-Summit-by-Programming-Hero-at-Cumilla-Polytechnic-Institute-8_pf0hmh.jpg",
+        "alt": "Career Summit by Programming Hero",
+        "type": "image"
+      },
+      {
+        "src": "https://res.cloudinary.com/ddbgsmogk/image/upload/v1762765329/Career-Summit-by-Programming-Hero-at-Cumilla-Polytechnic-Institute-9_bmecuf.jpg",
+        "alt": "Career Summit by Programming Hero",
+        "type": "image"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Innovation Competition 2.0 - ইনোভেশন কম্পিটিশন ২০২৫",
+    "description": "কুমিল্লা পলিটেকনিক ইনস্টিটিউট হাই টেক ক্লাব আয়োজিত ইনোভেশন কম্পিটিশন ২০২৫ - নতুন আইডিয়া, নতুন উদ্ভাবনের মঞ্চ।",
+    "media": [
+      {
+        "src": "https://res.cloudinary.com/dtbmyws9s/image/upload/v1766560923/l1a0y0p9ufribui38vlg.jpg",
+        "alt": "Innovation Competition 2.0",
+        "type": "image"
+      },
+      {
+        "src": "https://res.cloudinary.com/dtbmyws9s/image/upload/v1766560937/xv5xeglyhvc12wepywhh.jpg",
+        "alt": "Innovation Competition 2.0",
+        "type": "image"
+      },
+      {
+        "src": "https://res.cloudinary.com/dtbmyws9s/image/upload/v1766560951/fabvjrljrmsnmp94ndnu.jpg",
+        "alt": "Innovation Competition 2.0",
+        "type": "image"
+      }
+    ]
+  }
+]
