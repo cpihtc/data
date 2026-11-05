@@ -2,7 +2,7 @@
   "details_category": "event",
   "details_date": "2026-11-06",
   "details_name": "Software Engineering in the Age of AI",
-  "details_short_description": "An exclusive online session organized by CPIHTC and Programming Hero featuring Jhankar Mahbub, CEO of Programming Hero, to answer questions and provide expert guidelines on navigating software engineering in the era of Artificial Intelligence.",
+  "details_short_description": "An online session by CPIHTC and Programming Hero discussing the future of software engineering in the AI era.",
   "details_image": "https://res.cloudinary.com/b6m7lna2/image/upload/v1793888061/e3feulstswzwdnvehrf5.jpg",
   "details_gallery": [
     {
@@ -11,7 +11,7 @@
       "type": "image"
     }
   ],
-  "details_description": "Ai এর এই যুগে সফটওয়্যার ইঞ্জিনিয়ারিং নিয়ে আমাদের অনেকের মনেই নানা প্রশ্ন আছে। তাই আপনাদের সব প্রশ্নের উত্তর দিতে এবং সঠিক দিকনির্দেশনা দিতে কুমিল্লা পলিটেকনিক ইনস্টিটিউট হাই টেক ক্লাব এবং প্রোগ্রামিং হিরো একটি অনলাইন সেশনের আয়োজন করেছে। এই সেশনে আমাদের সাথে থাকছেন প্রোগ্রামিং হিরোর সিইও ঝংকার মাহবুব ভাইয়া। সেশনটি হবে আগামী ৬ নভেম্বর ২০২৬ তারিখে, রাত ৯টা থেকে ১০টা পর্যন্ত গুগল মিটে। প্রযুক্তির সাথে তাল মিলিয়ে নিজেকে প্রস্তুত করতে চাইলে সেশনটিতে অবশ্যই যুক্ত হবেন।",
+  "details_description": "কুমিল্লা পলিটেকনিক ইনস্টিটিউট হাই টেক ক্লাব (CPIHTC) এবং প্রোগ্রামিং হিরোর যৌথ আয়োজনে 'Software Engineering in the Age of AI' শীর্ষক একটি অনলাইন সেশন অনুষ্ঠিত হয়। ৬ নভেম্বর ২০২৬ তারিখে গুগল মিটে আয়োজিত এই সেশনে প্রোগ্রামিং হিরোর সিইও ঝংকার মাহবুব AI-এর যুগে সফটওয়্যার ইঞ্জিনিয়ারিংয়ের ভবিষ্যৎ, বর্তমান চ্যালেঞ্জ এবং প্রয়োজনীয় প্রস্তুতি নিয়ে বিস্তারিত আলোচনা করেন। পাশাপাশি তিনি অংশগ্রহণকারীদের বিভিন্ন প্রশ্নের উত্তর ও সঠিক দিকনির্দেশনা প্রদান করেন।",
   "details_button": [
     {
       "name": "Forum Post",
