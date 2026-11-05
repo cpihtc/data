@@ -1,5 +1,14 @@
 [
     {
+        "id": 8,
+        "activity_category": "event",
+        "activity_name": "Software Engineering in the Age of AI",
+        "activity_details": "8",
+        "activity_image": "https://res.cloudinary.com/b6m7lna2/image/upload/v1793888061/e3feulstswzwdnvehrf5.jpg",
+        "activity_description": "An exclusive online session organized by CPIHTC and Programming Hero featuring Jhankar Mahbub, CEO of Programming Hero, to answer questions and provide expert guidelines on navigating software engineering in the era of Artificial Intelligence.",
+        "activity_date": "2026-11-06"
+    }
+    {
         "id": 7,
         "activity_category": "workshop",
         "activity_name": "Marketing & Branding Workshop 2026",
